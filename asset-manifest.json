@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/materialUi-firebase/static/css/main.ab85b8a4.css",
+    "main.js": "/materialUi-firebase/static/js/main.75f30bf3.js",
+    "static/js/592.db617e1d.chunk.js": "/materialUi-firebase/static/js/592.db617e1d.chunk.js",
+    "static/media/image (1).jpg": "/materialUi-firebase/static/media/image (1).2a740f06a4f63496f566.jpg",
+    "static/media/image (6).jpg": "/materialUi-firebase/static/media/image (6).5afb857196a433a21ebe.jpg",
+    "static/media/image (4).jpg": "/materialUi-firebase/static/media/image (4).21d1f99dc36a9e7dd68d.jpg",
+    "static/media/image (5).jpg": "/materialUi-firebase/static/media/image (5).1094863a55dc8eb764ec.jpg",
+    "static/media/image (3).jpg": "/materialUi-firebase/static/media/image (3).e793be6e852417e937c0.jpg",
+    "static/media/image (2).jpg": "/materialUi-firebase/static/media/image (2).373dfbd0e205a97b8b29.jpg",
+    "static/media/statics.svg": "/materialUi-firebase/static/media/statics.e5a5a1a262e7616f0f54d0247eee11c1.svg",
+    "static/media/server.svg": "/materialUi-firebase/static/media/server.5e08d1c8c6ab3d9610c198ead7d7ac24.svg",
+    "static/media/logo.svg": "/materialUi-firebase/static/media/logo.24fe41ff173c92d2db5371b38f518861.svg",
+    "index.html": "/materialUi-firebase/index.html",
+    "main.ab85b8a4.css.map": "/materialUi-firebase/static/css/main.ab85b8a4.css.map",
+    "main.75f30bf3.js.map": "/materialUi-firebase/static/js/main.75f30bf3.js.map",
+    "592.db617e1d.chunk.js.map": "/materialUi-firebase/static/js/592.db617e1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab85b8a4.css",
+    "static/js/main.75f30bf3.js"
+  ]
+}
